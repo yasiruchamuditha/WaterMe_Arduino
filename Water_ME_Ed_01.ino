@@ -1,7 +1,8 @@
 #include <FirebaseArduino.h>
 #include <ESP8266WiFi.h>
 #include "DHT.h"
-
+//@author yasiru
+//contact me : https://linktr.ee/yasiruchamuditha for more information.
 #define FIREBASE_HOST "waterme-31c24-default-rtdb.firebaseio.com" // Firebase host
 #define FIREBASE_AUTH "DP6jqVDt34o2bwXM00J3hb0TB5KOtUIvAI0mZFsG" // Firebase Auth code
 
